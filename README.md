@@ -20,15 +20,15 @@ MaDaM converted to lower case is: madam
 ```
 
 ## Exercise 3: Palindrome Checker
-a simple C++ program that checks whether a word is a palindrome, i.e., a word that reads the same forwards or backwards. The program prompts the user for a single word. Once entered, the program displays a message indicating whether the word was a palindrome or not.
+a simple C++ program that checks whether a word or phrase is a palindrome, i.e., a word that reads the same forwards or backwards. The program prompts the user for a single word. Once entered, the program displays a message indicating whether the word was a palindrome or not.
 
 Example output:
 ```
 Please enter a word: Company
 Sorry, ‘Company’ is not a palindrome.
 
-Please enter a word: RaceCar
-Yes, ‘RaceCar’ is a palindrome
+Please enter a word: Race Car
+Yes, ‘Race Car’ is a palindrome
 
 Please enter a word: madam
 Yes, ‘madam’ is a palindrome
