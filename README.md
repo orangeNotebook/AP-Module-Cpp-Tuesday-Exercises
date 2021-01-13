@@ -74,3 +74,24 @@ The password 'Password2021' is Strong
 Password: Password2021!
 The password 'Password2021!' is Very Strong
 ```
+
+## Primer Challenge 3: Employee List Removal
+A simple C++ program that displays a list of employee names. Prompts the user for an employee name and remove it for the list; display the remaining names, each on its own line.
+
+Example output:
+```
+There are 5 employees:
+John Smith
+Jaelynn Stuart
+Kaley Barajas
+Walter Collier
+Cale Myers
+
+Enter an employee name to remove: Jaelynn Stuart
+
+There are 4 employees:
+John Smith
+Kaley Barajas
+Walter Collier
+Cale Myers
+```
