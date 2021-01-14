@@ -75,7 +75,7 @@ Password: Password2021!
 The password 'Password2021!' is Very Strong
 ```
 
-## Primer Challenge 3: Employee List Removal
+## Employee List Removal
 A simple C++ program that displays a list of employee names. Prompts the user for an employee name and remove it for the list; display the remaining names, each on its own line.
 
 Example output:
